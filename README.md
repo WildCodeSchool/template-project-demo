@@ -2,7 +2,6 @@
 
 ## button burger, on click, I can see the menu displayed
 
-addeventlistener
-onclick
-hover
-target from html to js
+- retrieve burger button in js
+- function on burger button click
+- addevent listener on click
